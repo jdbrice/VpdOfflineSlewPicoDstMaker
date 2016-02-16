@@ -1,0 +1,150 @@
+Info     : [Engine.Engine] Loading engine config : MuDst.xml
+Debug    : [Engine.RapidXmlWrapper] ( filename=MuDst.xml )
+Debug    : [Engine.parseIncludes] 
+Debug    : [Engine.parseIncludes] Found 0 Include Tag(s)
+Info     : [Engine.runTasks] Found 1 task
+Debug    : [XmlConfig.XmlConfig] Empty XmlConfig
+Info     : [Engine.runTasks] Running VpdOfflineSlewPicoDstMaker PicoDstMaker
+Info     : [Engine.runTasks] Using MuDst.xml config for task
+Debug    : [XmlConfig.XmlConfig] Empty XmlConfig
+Debug    : [TreeAnalyzer.TreeAnalyzer] 
+Debug    : [XmlConfig.XmlConfig] copy constructor!
+Debug    : [VpdOfflineSlewPicoDstMaker.init] ( MuDst.xml, , -1 )
+Debug    : [XmlConfig.XmlConfig] copy constructor!
+Debug    : [VpdOfflineSlewPicoDstMaker.init] ( MuDst.xml, , -1 )
+Debug    : [XmlConfig.basePath] (VpdOfflineSlewPicoDstMaker)
+Info     : [VpdOfflineSlewPicoDstMaker.initDataSource] ( jobIndex=-1)
+Debug    : [XmlConfig.basePath] (VpdOfflineSlewPicoDstMaker)
+Debug    : [XmlConfig.basePath] (input)
+Debug    : [XmlConfig.basePath] (dst)
+Debug    : [XmlConfig.basePath] ()
+Debug    : [XmlConfig.basePath] ()
+Debug    : [XmlConfig.basePath] ()
+Info     : [VpdOfflineSlewPicoDstMaker.initDataSource]  Loading data from listfile : /Users/danielbrandenburg/bnl/local/work/vpdOfflineSlewPicoDstMaker/bin/listMuDst.lis
+Debug    : [ChainLoader.loadList] ( chain, listFile=/Users/danielbrandenburg/bnl/local/work/vpdOfflineSlewPicoDstMaker/bin/listMuDst.lis, maxFiles=100 )
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_5650_5659.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_5660_5669.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_5670_5679.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_5680_5689.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_5690_5699.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_5700_5709.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_5710_5719.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_5720_5729.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_5730_5739.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_5740_5749.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_5750_5759.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_5760_5769.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_5770_5779.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_5780_5789.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_5790_5799.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_5800_5809.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_5810_5819.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_5820_5829.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_5830_5839.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_5840_5849.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_5850_5859.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_5860_5869.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_5870_5879.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_5880_5889.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_5890_5899.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_5900_5909.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_5910_5919.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_5920_5929.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_5930_5939.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_5940_5949.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_5950_5959.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_5960_5969.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_5970_5979.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_5980_5989.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_5990_5999.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_0_9.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_1000_1009.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_100_109.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_1010_1019.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_1020_1029.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_1030_1039.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_1040_1049.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_1050_1059.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_1060_1069.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_1070_1079.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_1080_1089.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_1090_1099.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_10_19.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_1100_1109.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_110_119.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_1110_1119.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_1120_1129.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_1130_1139.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_1140_1149.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_1150_1159.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_1160_1169.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_1170_1179.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_1180_1189.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_1190_1199.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_1200_1209.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_120_129.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_1210_1219.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_1220_1229.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_1230_1239.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_1240_1249.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_1250_1259.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_1260_1269.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_1270_1279.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_1280_1289.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_1290_1299.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_1300_1309.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_130_139.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_1310_1319.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_1320_1329.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_1330_1339.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_1340_1349.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_1350_1359.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_1360_1369.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_1370_1379.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_1380_1389.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_1390_1399.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_1400_1409.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_140_149.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_1410_1419.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_1420_1429.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_1430_1439.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_1440_1449.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_1450_1459.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_1460_1469.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_1470_1479.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_1480_1489.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_1490_1499.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_1500_1509.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_150_159.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_1510_1519.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_1520_1529.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_1530_1539.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_1540_1549.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_1550_1559.MuDst.root
+Debug    : [ChainLoader.loadList] Adding File : /Users/danielbrandenburg/bnl/local/data/Run16/vpd_postmortem/vpd_5_B/out_B_1560_1569.MuDst.root
+Info     : [ChainLoader.loadList] 100 files loaded into chain
+Debug    : [XmlConfig.basePath] (VpdOfflineSlewPicoDstMaker)
+Debug    : [XmlConfig.basePath] (output)
+Debug    : [XmlConfig.basePath] (data)
+Debug    : [XmlConfig.basePath] ()
+Debug    : [XmlConfig.basePath] ()
+Debug    : [XmlConfig.basePath] ()
+Info     : [VpdOfflineSlewPicoDstMaker.initHistoBook] name = "qa.root"
+Info     : [VpdOfflineSlewPicoDstMaker.initHistoBook] name = "qa"
+Info     : [TreeAnalyzer.initHistoBook]  Creating book : qa.root
+Info     : [VpdOfflineSlewPicoDstMaker.initHistoBook] Skip Make == 0
+Debug    : [XmlConfig.XmlConfig] copy constructor!
+Debug    : [XmlConfig.XmlConfig] Empty XmlConfig
+Debug    : [HistoBook.initialize] 
+Debug    : [HistoBook.initialize] Output File : qa.root opened
+Debug    : [HistoBook.mergeIn] (,  )
+Info     : [HistoBook.saveOnExit] Auto Save on exit set to 1
+Info     : [VpdOfflineSlewPicoDstMaker.initReporter] Creating Reporter
+Debug    : [XmlConfig.basePath] (VpdOfflineSlewPicoDstMaker)
+Debug    : [XmlConfig.basePath] (Reporter)
+Debug    : [XmlConfig.basePath] (output:url)
+Debug    : [XmlConfig.basePath] ()
+Debug    : [XmlConfig.basePath] ()
+Debug    : [XmlConfig.basePath] ()
+Info     : [VpdOfflineSlewPicoDstMaker.initReporter] No Reporter created, jobPostfix == .root
+Info     : [VpdOfflineSlewPicoDstMaker.initialize] READING params
